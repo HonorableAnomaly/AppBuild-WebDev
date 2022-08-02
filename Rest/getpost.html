@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Get and Post</title>
+  </head>
+  <body>
+    <h1>Get and Post Requests</h1>
+    <h2>GET your tacos!</h2>
+    <form action="/tacos" method="get">
+      <label for="">Choose your meat:</label>
+      <input type="text" name="meat" />
+      <label for="">How many?</label>
+      <input type="number" name="qty" />
+      <button>Place order</button>
+    </form>
+    <hr />
+    <h2>POST your tacos!</h2>
+    <form action="/tacos" method="post">
+      <label for="">Choose your meat:</label>
+      <input type="text" name="meat" />
+      <label for="">How many?</label>
+      <input type="number" name="qty" />
+      <button>Place order</button>
+    </form>
+  </body>
+</html>

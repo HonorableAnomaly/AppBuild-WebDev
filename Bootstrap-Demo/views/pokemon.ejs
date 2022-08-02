@@ -1,0 +1,16 @@
+<%- include('partials/head') %>
+
+<body>
+  <h1>Pokémon</h1>
+
+  <!-- How to write ejs that pulls elements from an array -->
+  <h2>List of active Pokémon</h2>
+
+  <ul>
+    <% for(let each of pokemon) { %>
+    <li><%= each %></li>
+    <% } %>
+  </ul>
+</body>
+
+<%- include('partials/footer') %>

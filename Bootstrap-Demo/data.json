@@ -1,0 +1,90 @@
+{
+  "pokemon": {
+    "name": "Pokémon",
+    "subscribers": 1510000,
+    "description": "The Pokémon subreddit for Pokémon trainers of all types!",
+    "posts": [
+      {
+        "title": "Ash lets another legendary Pokémon get away...",
+        "author": "LancetheDragonTamer",
+        "img": "https://images.unsplash.com/photo-1605979257913-1704eb7b6246?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cG9rZW1vbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "The early bird gets the worm, or in this case, the Pokémon.",
+        "author": "ProfOak",
+        "img": "https://images.unsplash.com/photo-1627856608109-9cd57d12966c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cG9rZW1vbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "Insulting 'win' by a no-name from Nowheretown.",
+        "author": "SurgingThunder",
+        "img": "https://images.unsplash.com/photo-1637164011965-635d3e762a38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBva2Vtb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      }
+    ]
+  },
+  "warcraft": {
+    "name": "Warcraft",
+    "subscribers": 8000000,
+    "description": "The Warcraft subreddit for events across Azeroth and beyond.",
+    "posts": [
+      {
+        "title": "Has anyone seen my wife?",
+        "author": "MankriktheNotman",
+        "img": "https://i.redd.it/zccdedtyxd221.jpg"
+      },
+      {
+        "title": "Peacebloom cause anything but peace in Durotar",
+        "author": "TrollingTroll",
+        "img": "https://i.pinimg.com/originals/39/69/7a/39697a5400abb48fa4141d0ba54bafb9.jpg"
+      },
+      {
+        "title": "How many undead does this 'king' have?",
+        "author": "PaliDan",
+        "img": "https://cdn.wccftech.com/wp-content/uploads/2020/04/52-qWgWjhq.jpg"
+      }
+    ]
+  },
+  "lordoftherings": {
+    "name": "Lord of the Rings",
+    "subscribers": 19700000,
+    "description": "The Lord of the Rings subreddit for watchful eyes over Middle-Earth.",
+    "posts": [
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1565560049450-c77cc3b40c8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlkZGxlJTIwZWFydGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1523819088009-c3ecf1e34000?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1pZGRsZSUyMGVhcnRofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1514900389014-caae55f63513?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWlkZGxlJTIwZWFydGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      }
+    ]
+  },
+  "starwars": {
+    "name": "Star Wars",
+    "subscribers": 3200500,
+    "description": "The Star Wars subreddit for Jedi and Sith alike.",
+    "posts": [
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3RhciUyMHdhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1623476408624-721c9185d569?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3RhciUyMHdhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHN0YXIlMjB3YXJzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+      }
+    ]
+  }
+}

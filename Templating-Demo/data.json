@@ -1,0 +1,62 @@
+{
+  "pokemon": {
+    "name": "Pokémon",
+    "subscribers": 1510000,
+    "description": "The Pokémon subreddit for Pokémon trainers of all types!",
+    "posts": [
+      {
+        "title": "Ash lets another legendary Pokémon get away...",
+        "author": "LancetheDragonTamer"
+      },
+      {
+        "title": "The early bird gets the worm, or in this case, the Pokémon.",
+        "author": "ProfOak"
+      },
+      {
+        "title": "Insulting 'win' by a no-name from Nowheretown.",
+        "author": "SurgingThunder"
+      }
+    ]
+  },
+  "warcraft": {
+    "name": "Warcraft",
+    "subscribers": 8000000,
+    "description": "The Warcraft subreddit for events across Azeroth and beyond.",
+    "posts": [
+      {
+        "title": "Has anyone seen my wife?",
+        "author": "MankriktheNotman"
+      },
+      {
+        "title": "Peacebloom cause anything but peace in Durotar",
+        "author": "TrollingTroll"
+      },
+      {
+        "title": "How many undead does this 'king' have?",
+        "author": "PaliDan"
+      }
+    ]
+  },
+  "lordoftherings": {
+    "name": "Lord of the Rings",
+    "subscribers": 19700000,
+    "description": "The Lord of the Rings subreddit for watchful eyes over Middle-Earth.",
+    "posts": [
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1565560049450-c77cc3b40c8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlkZGxlJTIwZWFydGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1523819088009-c3ecf1e34000?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1pZGRsZSUyMGVhcnRofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+      },
+      {
+        "title": "",
+        "author": "",
+        "img": "https://images.unsplash.com/photo-1514900389014-caae55f63513?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWlkZGxlJTIwZWFydGh8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+      }
+    ]
+  }
+}
