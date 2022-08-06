@@ -1,2 +1,3 @@
 # AppBuild-WebDev
- App building from scratch using HTML, CSS and JavaScript combined with web tech such as Node.js, Express, MongoDB and other tools
+
+App builds using HTML, CSS and JavaScript combined with web tech like Node.js, Express, MongoDB, etc.
